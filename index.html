@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: black;
+            text-align: center;
+            
+        }
+
+        .title{
+            background-color: #222;
+            font-size: x-large;
+            color: #0f0;
+            border-color: blue;
+            outline: none;
+            text-transform: uppercase;
+            width: 30%;
+            text-align: center;
+        }
+        .password{
+            background-color: #222;
+            font-size: x-large;
+            color: #f00;
+            border-color: red;
+            outline: none;
+            text-transform: uppercase;
+            width: 30%;
+            text-align: center;
+        }
+
+        .confirm{
+            color: #0f0;
+            background-color: black;
+            font-size: large;
+            border-color: white;
+            cursor: pointer;
+            outline: none;
+            width: 30%;
+            height: 10%;
+        }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+        <input type="text" class="title" id="title" onkeyup="this.value = this.value.replace(/[^a-zA-Z]/g,'')" placeholder="TITLE">
+        <div style="height: 10px;"></div>
+        <input type="text" class="password" id="password" onkeyup="this.value = this.value.replace(/[^a-zA-Z]/g,'')" placeholder="PASSWORD"><div style="height: 10px;"></div>
+        <button class="confirm" onclick="confirm()">열어보기</button>
+        <div style="height: 15px;"></div>
+        <div>
+            <div id="story" style="color: white;"></div>
+            <a id="link" href="" target="_blank" style="color: #0f0;"></a>
+        </div>
+        
+    <script src="main.js"></script>
+</body>
+</html>
