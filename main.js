@@ -5,7 +5,7 @@ var bodyPad = {
   SPYGLASS:{
     password:"85b7046b68b5ad3c7b6e46b15d3b9cec",
     story:"당신은 이제 막 잠들었습니다. 지금 당장 떠오르는 것은 어제 틀린 코딩문제에 대한 해결책 따위죠. 당신은 매일 그러한 것 처럼, 악몽에 빠집니다.",
-    link:"U2FsdGVkX180skaHk0oFposgIECs5xH5oIQuRVJ/Ht7+oHsCyEz/luW6zwsA2uy6NovU8Xw6QUfrclERcXCtBD98t7vdegbCiH8xXAHjc0KcIjGu8TZnYmKiCiWWkFvx52xPFgXU9aPak3Dqz3T1tg==",
+    link:"U2FsdGVkX1/PLgaW9/xN1354dXaWkvpva61GnFVmje6MfUBRAmV4xMbBvOjCmvLtmS5365lwkqWN6joKxi2+VvUSrP4epLjK6lIefXI6qgerx2Y5SDfbUTHfXR+NCYQJFvk7h6rRCfzHLKyvNLIy2A==",
   },
   TOOLKID:{
     password:"637d8697621a53b596a9c47b6a410df1",
