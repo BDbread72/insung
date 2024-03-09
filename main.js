@@ -30,3 +30,4 @@ function confirm() {
     document.getElementById("link").innerText = decrypt(bodyPad[title].link)
   }
 }
+console.log("version : 2")
