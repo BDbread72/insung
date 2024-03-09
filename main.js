@@ -9,8 +9,8 @@ var bodyPad = {
   },
   TOOLKID:{
     password:"637d8697621a53b596a9c47b6a410df1",
-    story:'당신은 하나의 악몽에서 깨어났다고 생각 했습니다. 그러나, 다음 악몽에 잠들기 까지는 오래 걸리지 않았죠.\n\nWIP(Work In Progress)',
-    link:"U2FsdGVkX18NLZxky8hyd/fLmBIsp++Ee/bEfsGQMvutrEYB4+FAJqbDHXD5VQFK"
+    story:'당신은 하나의 악몽에서 깨어났다고 생각 했습니다. 그러나, 다음 악몽에 잠들기 까지는 오래 걸리지 않았죠.',
+    link:"U2FsdGVkX181i/3FhKlmukvOPRHqEaqKGvuv/tjLXn2Ht1EwsfKWitHQNjK5aluXSiZAQrd8OGQc963WyuzejDs2YOhos58YB9CagIOB2YcthY06y8hGQUDlbk7YlAt48/keuCaCsdW6RtoSdbptFA=="
   }
 }
 
