@@ -13,7 +13,7 @@ var bodyPad = {
     link:"U2FsdGVkX181i/3FhKlmukvOPRHqEaqKGvuv/tjLXn2Ht1EwsfKWitHQNjK5aluXSiZAQrd8OGQc963WyuzejDs2YOhos58YB9CagIOB2YcthY06y8hGQUDlbk7YlAt48/keuCaCsdW6RtoSdbptFA=="
   },
   HANDKER:{
-    password:"U2FsdGVkX19SmD40fLLBOEIKZFr9LvaFmepTYTRCGu4=",
+    password:"UU2FsdGVkX1+yIa33s7nFvdprjljYRjzMrdSFrEFW9Mw=",
     story:"악몽은 치료할 수 없습니다. 그저 깨닫는 과정일 뿐이죠. 당신의 업을.",
     link:"U2FsdGVkX1/6o2Dzsk/0BW3Qccn5RvoPg6VlRjolmJnwKk3saz9jh6XwXAlcamA7L/GsWH+eGcK/gFaNMViLpdgQiBCW/TNc1m95SCkMDS0Dt40EveMXDHCRn2ZBJ+OAbmCsUfWy++is0F2PwwZufQ=="
   }
