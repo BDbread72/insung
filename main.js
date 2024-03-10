@@ -14,7 +14,7 @@ var bodyPad = {
   },
   HANDKER:{
     password:"UU2FsdGVkX1+yIa33s7nFvdprjljYRjzMrdSFrEFW9Mw=",
-    story:"악몽은 치료할 수 없습니다. 그저 깨닫는 과정일 뿐이죠. 당신의 업을.",
+    story:"악몽은 치료할 수 없습니다. 그저 깨닫는 과정일 뿐이죠. 당신의 업을. (Please Turn off SHADER! Vanila Only!)",
     link:"U2FsdGVkX1/6o2Dzsk/0BW3Qccn5RvoPg6VlRjolmJnwKk3saz9jh6XwXAlcamA7L/GsWH+eGcK/gFaNMViLpdgQiBCW/TNc1m95SCkMDS0Dt40EveMXDHCRn2ZBJ+OAbmCsUfWy++is0F2PwwZufQ=="
   }
 }
