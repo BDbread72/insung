@@ -11,6 +11,11 @@ var bodyPad = {
     password:"637d8697621a53b596a9c47b6a410df1",
     story:'당신은 하나의 악몽에서 깨어났다고 생각 했습니다. 그러나, 다음 악몽에 잠들기 까지는 오래 걸리지 않았죠.',
     link:"U2FsdGVkX181i/3FhKlmukvOPRHqEaqKGvuv/tjLXn2Ht1EwsfKWitHQNjK5aluXSiZAQrd8OGQc963WyuzejDs2YOhos58YB9CagIOB2YcthY06y8hGQUDlbk7YlAt48/keuCaCsdW6RtoSdbptFA=="
+  },
+  HANDKER:{
+    password:"U2FsdGVkX19SmD40fLLBOEIKZFr9LvaFmepTYTRCGu4=",
+    story:"악몽은 치료할 수 없습니다. 그저 깨닫는 과정일 뿐이죠. 당신의 업을.",
+    link:"U2FsdGVkX1/6o2Dzsk/0BW3Qccn5RvoPg6VlRjolmJnwKk3saz9jh6XwXAlcamA7L/GsWH+eGcK/gFaNMViLpdgQiBCW/TNc1m95SCkMDS0Dt40EveMXDHCRn2ZBJ+OAbmCsUfWy++is0F2PwwZufQ=="
   }
 }
 
@@ -30,4 +35,4 @@ function confirm() {
     document.getElementById("link").innerText = decrypt(bodyPad[title].link)
   }
 }
-console.log("version : 2")
+console.log("version : 3")
